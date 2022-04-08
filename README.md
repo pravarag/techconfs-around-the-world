@@ -6,9 +6,8 @@ Cloud Native etc.
 
 | Title				|	Date			|				Details								|
 | ----------------------------	| ---------------------------- 	| ----------------------------------------------------------------------------------------------|
-
 | KCD Bengaluru 2022         | 23rd April 2022 (Virtual)     | https://community.cncf.io/events/details/cncf-kcd-bengaluru-presents-kubernetes-community-days-bengaluru-2022-virtual-event/ |
-| KCD Chennai 2022           | 3-4 June 2022 (Virtual)       | https://community.cncf.io/kcd-chennai/                                                                                       |
+| KCD Chennai 2022           | 3-4 June 2022 (Virtual)       | https://community.cncf.io/kcd-chennai/ |
 |                            |                               |                                                                                                                              |
 |                            |                               |                                                                                                                              |
 |                            |                               |                                                                                                                              |
