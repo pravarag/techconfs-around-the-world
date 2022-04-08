@@ -6,6 +6,10 @@ Cloud Native etc.
 
 | Title				|	Date			|				Details								|
 | ----------------------------	| ---------------------------- 	| ----------------------------------------------------------------------------------------------|
+
+| KCD Bengaluru 2022  | 23rd April 2022 (Virtual)  | https://community.cncf.io/events/details/cncf-kcd-bengaluru-presents-kubernetes-community-days-bengaluru-2022-virtual-event/ |
+| KCD Chennai 2022  |  3-4 June 2022 (Virtual) | https://community.cncf.io/kcd-chennai/ |
+
 | KubeCon Europe 2020		| August 17 - 20,2020 (Virtual)	| https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/faq/#registration	|
 | Kubecon North America 2020	| Nov 17 - 20,2020 (Virtual)	| https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/			|
 | gRPC Conf 2020		| July 27 - 28, 2020 (Virtual)	| https://events.linuxfoundation.org/grpc-conf/							|
