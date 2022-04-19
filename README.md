@@ -4,11 +4,11 @@ This repo houses info about some popular tech conferences happening
 around the world on Software Engineering, DevOps, Site Reliability,
 Cloud Native etc.
 
-| Title				|	Date			|				Details								|
-| ----------------------------	| ---------------------------- 	| ----------------------------------------------------------------------------------------------|
+| Title                      | Date                          | Details                                                                                                                      |
+|----------------------------|-------------------------------|------------------------------------------------------------------------------------------------------------------------------|
 | KCD Bengaluru 2022         | 23rd April 2022 (Virtual)     | https://community.cncf.io/events/details/cncf-kcd-bengaluru-presents-kubernetes-community-days-bengaluru-2022-virtual-event/ |
-| KCD Chennai 2022           | 3-4 June 2022 (Virtual)       | https://community.cncf.io/kcd-chennai/ |
-|                            |                               |                                                                                                                              |
+| KCD Chennai 2022           | 3-4 June 2022 (Virtual)       | https://community.cncf.io/kcd-chennai/                                                                                       |
+| Ollfest 2022               | 9-12 May 2022 (virtual)       | https://o11yfest.org/agenda                                                                                                                             |
 |                            |                               |                                                                                                                              |
 |                            |                               |                                                                                                                              |
 |                            |                               |                                                                                                                              |
